@@ -16,11 +16,11 @@ All the components are self-paid and this project is purely for educational purp
 
 
 
-## List of materials
+# List of materials
 All the used materials and hardware will be listed below. Most of the components are from AliExpress due to me being a student and not having a lot of bucks :)
 The order links are also shared below. With the components below you should be able to recreate a MatrixLink device without problems.
 
-# MatrixLink device's
+## MatrixLink device's
 - ESP8266 D1 Mini V2 
 - WS2812B-64 (Neopixel) 8x8 LED matrix
 - 1.9" 320x170 Color IPS TFT Display - ST7789
@@ -29,7 +29,7 @@ The order links are also shared below. With the components below you should be a
 -  USB-C type power cable
 
 
-# Server
+## Server
 - Raspberry Pi Zero 2 W
 - USB-micro type power cable
 - USB-micro to USB-A adapter
