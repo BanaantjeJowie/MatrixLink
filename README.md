@@ -6,7 +6,10 @@ This is a fun project where I will be learning about ESP8266, tft-displays, neop
 The project is open for anyone to contribute.
 
 
+## Functionality
+The device itself will be an ESP8266 connected to an 8x8 LED matrix for the drawing, a tft screen fot the written message and sender, a button for refreshing manually, a potentiometer for turing up or down the brightness and a swithc for turning the device off. 
 
+![]()
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -14,10 +17,8 @@ I am working on the code in the Arduino IDE and the repo is a manual/ guide to t
 The code should be available in this repository soon.
 All the components are self-paid and this project is purely for educational purposes.
 
-
-
 # List of materials
-All the used materials and hardware will be listed below. Most of the components are from AliExpress due to me being a student and not having a lot of bucks :)
+All the used materials and hardware will be listed below. Most of the components are from AliExpress due to me being a student and not having a lot of bucks :).
 The order links are also shared below. With the components below you should be able to recreate a MatrixLink device without problems.
 
 ## MatrixLink device's
@@ -41,3 +42,5 @@ The order links are also shared below. With the components below you should be a
 - Visual Studio Code
 - ...
   
+
+
