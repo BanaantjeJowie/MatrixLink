@@ -32,7 +32,7 @@ The order links are also shared below. With the components below you should be a
 
 ## Server
 - Raspberry Pi Zero 2 W  https://shop.mchobby.be/fr/cartes-meres/2334-raspberry-pi-zero-2-w-avec-header-wireless-cam-port-3232100023345.html
-- USB-micro type power cable  https://nl.aliexpress.com/item/1005006135009963.html?
+- USB-micro type power cable  https://nl.aliexpress.com/item/1005006135009963.html
 - USB-micro to USB-A adapter  https://nl.aliexpress.com/item/1005006637219104.html
 - USB drive (or any USB storage device) https://nl.aliexpress.com/item/1005007315810824.html
 
