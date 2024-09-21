@@ -7,7 +7,7 @@ The project is open for anyone to contribute.
 
 
 ## Functionality
-The device itself will be an ESP8266 connected to an 8x8 LED matrix for the drawing, a tft screen fot the written message and sender, a button for refreshing manually, a potentiometer for turing up or down the brightness and a swithc for turning the device off. 
+The device itself will be an ESP8266 connected to an 8x8 LED matrix for the drawing, a tft screen for the written message and sender, a button for refreshing manually, a potentiometer for turing up or down the brightness and a switch for turning the device off. 
 
 ![]()
 
