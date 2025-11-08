@@ -1,13 +1,13 @@
 # MatrixLink
- MatrixLink is an IoT project where at least two ESP8266 devices, each with an LED matrix and a 1.9 inch tft screen, allow users to exchange pixel drawings and messages globally in real-time. A web interface lets users create and send content to the other device instantly, enabling a creative and interactive communication experience across any distance.
+ MatrixLink is an IoT project where at least two ESP32-C3 devices, each with an LED matrix and a 1.9 inch tft screen, allow users to exchange pixel drawings and messages globally in real-time. A web interface lets users create and send content to the other device instantly, enabling a creative and interactive communication experience across any distance.
 
 
-This is a fun project where I will be learning about ESP8266, tft-displays, neopixel LED's, server communication, 3D modelling and hopefully many more stuff!
+This is a fun project where I will be learning about ESP32-C3, tft-displays, neopixel LED's, server communication, 3D modelling and hopefully many more stuff!
 The project is open for anyone to contribute.
 
 
 ## Functionality
-The device itself will be an ESP8266 connected to an 8x8 LED matrix for the drawing, a tft screen for the written message and sender, a button for refreshing manually, a potentiometer for turing up or down the brightness and a switch for turning the device off. 
+The device itself will be an ESP32-C3 connected to an 8x8 LED matrix for the drawing, a tft screen for the written message and sender, a button for refreshing manually, a potentiometer for turing up or down the brightness and a switch for turning the device off. 
 
 ![]()
 
@@ -22,7 +22,7 @@ All the used materials and hardware will be listed below. Most of the components
 The order links are also shared below. With the components below you should be able to recreate a MatrixLink device without problems.
 
 ## MatrixLink device's
-- ESP8266 D1 Mini V2  https://nl.aliexpress.com/item/1005006975297862.html
+- ESP32-C3 mini
 - WS2812B-64 (Neopixel) 8x8 LED matrix  https://nl.aliexpress.com/item/32650023518.html
 - 1.9" 320x170 Color IPS TFT Display - ST7789  https://nl.aliexpress.com/item/1005007239120587.html
 - Jumper wires (in testing)  https://nl.aliexpress.com/item/1005006354678375.html
